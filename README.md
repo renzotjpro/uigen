@@ -1,5 +1,9 @@
 # UIGen
 
+## Repository Name
+
+UIgen
+
 AI-powered React component generator with live preview.
 
 ## Prerequisites
